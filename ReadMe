@@ -1,0 +1,4 @@
+创咖汇文件存储-项目计划及经验分享
+使用说明：
+git remote add origin https://github.com/Gensiss/CCS.git
+git push -u origin master
